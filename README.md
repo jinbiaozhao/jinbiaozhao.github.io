@@ -2,12 +2,11 @@
 
 **Jinbiao Zhao**, Master Student,University of Chinese Academy of Sciences
 
-E-mail: jiahaoshixhl@163.com.
+E-mail: 18761605658@163.com
 
-<img src="QQ图片20200721182028.jpg" width="20%">
 ### Research Interests
 
-Computer Vision,  Hyperspectral Analysis, Deep Learning, Pattern Recognition
+Machine Learning,  Auto-Control, Astronomical Instruments
 
 ### Research Achievements
 _专利_
