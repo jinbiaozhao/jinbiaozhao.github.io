@@ -9,20 +9,20 @@ E-mail: 18761605658@163.com
 Machine Learning,  Auto-Control, Astronomical Instruments
 
 ### Research Achievements
-_专利_
+_Patent_
 
-- CN201920419380.0一种基于高光谱技术的胶囊分选装置
-- CN201910087104.3基于深度相机的黑果枸杞分选装置及识别与分类算法
-- CN201920635588.6一种新型甘蔗末梢剪切装置
-- CN201920154780.3一种可拆卸拓展的懒人桌
-- CN201920446020.X一种基于激光散斑的苗木根活力测量装置
-- CN201920154795.X一种基于倒钩凹槽履带的黑枸杞分选机
+- CN106683712B 胡企千, 李冬冬, 赵金标,等. 一种二维高精度检测平台:.
 
+_Article_
+赵金标, 朱庆生, 周小军,等. 钢环反射式光栅编码器在转台伺服系统中的应用[J]. 传感技术学报, 2017, 030(005):801-806.
+赵金标, 朱庆生, 周小军,等. 基于Pt1000的滤光器测温系统设计[J]. 传感器与微系统, 2017(6).
+低温下(-213℃)补偿机构的设计[J]. 红外技术(8期):659-665.
 
 ### For CV in Papers
 ```text
-Shi Jiahao was born in Nantong, Jiangsu, China in 1997. 
-He graduated from Nanjing Forestry University in 2018 and obtained a bachelor's degree in engineering. 
-He is currently pursuing a master's degree at Nanjing Forestry University. 
-His research interests include the application of intelligent algorithms in industry, image data processing and hyperspectral analysis.
+Jinbiao Zhao was born in YanCheng, Jiangsu, China in 1991. 
+He graduated from Nanjing University of Technology in 2014 and obtained a bachelor's degree in engineering. 
+He graduated from University of Chinese Academy of Sciences in 2017 and obtained a master's degree in engineering.
+He is currently working in CAS Nanjing Astronomical Instrument Co., Ltd. 
+His research interests include the application of intelligent algorithms in industry,Astronomical Instruments.
 ```
